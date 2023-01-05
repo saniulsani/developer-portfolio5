@@ -181,3 +181,32 @@ section {
 
 
 }
+/* comtact syles */
+
+.contact {
+    display: flex;
+    gap: 115px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+}
+.contact .section-title{
+    text-align: left;
+}
+.contact input, textarea{
+    margin-bottom: 25px;
+    border: 0;
+    width: 100%;
+    padding: 18px 30px;
+}
+
+input{
+    height: 50px;
+ 
+}
+.contact .section-description{
+    margin-bottom: 15px;
+}
+.contact a{
+    text-decoration: none;
+}
+
